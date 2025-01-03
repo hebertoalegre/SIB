@@ -5,7 +5,7 @@ from mysql.connector import Error
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "bantrab",
+    "password": "*******", # Escribir contraseña
 }
 
 db_name = "sib_data"
