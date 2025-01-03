@@ -1,0 +1,11 @@
+{
+    "EXTRANJERA": {
+        "ID": 1
+    },
+    "NACIONAL": {
+        "ID": 2
+    },
+    "AMBAS": {
+        "ID": 3
+    }
+}

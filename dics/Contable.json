@@ -1,0 +1,102 @@
+{
+    "TOTAL DE CARTERA DE CREDITOS (NETA)": {
+        "ORIGEN": 2,
+        "ID": 1
+    },
+    "CARTERA DE CREDITOS": {
+        "ORIGEN": 2,
+        "ID": 2
+    },
+    "FIDUCIARIOS": {
+        "ORIGEN": 2,
+        "ID": 3
+    },
+    "FIDUCIARIOS - PRENDARIOS": {
+        "ORIGEN": 2,
+        "ID": 4
+    },
+    "PRENDARIOS": {
+        "ORIGEN": 2,
+        "ID": 5
+    },
+    "HIPOTECARIOS - FIDUCIARIOS": {
+        "ORIGEN": 2,
+        "ID": 6
+    },
+    "HIPOTECARIOS - PRENDARIOS": {
+        "ORIGEN": 2,
+        "ID": 7
+    },
+    "HIPOTECARIOS": {
+        "ORIGEN": 2,
+        "ID": 8
+    },
+    "CON BONO DE PRENDA": {
+        "ORIGEN": 2,
+        "ID": 9
+    },
+    "HIPOTECARIOS - PRENDARIOS - FIDUCIARIOS": {
+        "ORIGEN": 2,
+        "ID": 10
+    },
+    "CON GARANTIA DE OBLIGACIONES PROPIAS": {
+        "ORIGEN": 2,
+        "ID": 11
+    },
+    "OTROS CREDITOS": {
+        "ORIGEN": 2,
+        "ID": 12
+    },
+    "DOCUMENTOS DESCONTADOS": {
+        "ORIGEN": 2,
+        "ID": 13
+    },
+    "DOCUMENTOS POR COBRAR": {
+        "ORIGEN": 2,
+        "ID": 14
+    },
+    "PAGOS POR CARTAS DE CREDITO": {
+        "ORIGEN": 2,
+        "ID": 15
+    },
+    "TARJETAS DE CREDITO": {
+        "ORIGEN": 2,
+        "ID": 16
+    },
+    "FACTORAJE": {
+        "ORIGEN": 2,
+        "ID": 17
+    },
+    "CREDITOS CUENTA DEPOSITOS MONETARIOS": {
+        "ORIGEN": 2,
+        "ID": 18
+    },
+    "DEUDORES VENTA ACTIVOS EXTRAORDINARIOS": {
+        "ORIGEN": 2,
+        "ID": 19
+    },
+    "DEUDORES VENTA DE INMUEBLES Y MUEBLES": {
+        "ORIGEN": 2,
+        "ID": 20
+    },
+    "ARRENDAMIENTO FINANCIERO": {
+        "ORIGEN": 2,
+        "ID": 21
+    },
+    "OTROS": {
+        "ORIGEN": 2,
+        "ID": 22
+    },
+    "SUMA": {
+        "ORIGEN": 2,
+        "ID": 23
+    },
+    "MENOS ESTIMACIONES POR VALUACION": {
+        "ORIGEN": 2,
+        "ID": 24
+    },
+    "PRENDARIOS - FIDUCIARIOS": {
+        "ORIGEN": 2,
+        "ID": 25
+    }
+}

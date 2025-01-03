@@ -1,0 +1,34 @@
+{
+    "ESTATALES NO.": {
+        "ORIGEN": 5,
+        "ID": 1
+    },
+    "ESTATALES PATRIMONIO Q": {
+        "ORIGEN": 5,
+        "ID": 2
+    },
+    "MUNICIPALES NO.": {
+        "ORIGEN": 5,
+        "ID": 3
+    },
+    "MUNICIPALES PATRIMONIO Q": {
+        "ORIGEN": 5,
+        "ID": 4
+    },
+    "PRIVADOS NO.": {
+        "ORIGEN": 5,
+        "ID": 5
+    },
+    "PRIVADOS PATRIMONIO Q": {
+        "ORIGEN": 5,
+        "ID": 6
+    },
+    "TOTAL NO.": {
+        "ORIGEN": 5,
+        "ID": 7
+    },
+    "TOTAL PATRIMONIO Q": {
+        "ORIGEN": 5,
+        "ID": 8
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "CONFORME VALUACION CLASIFICACION A": {
+        "ORIGEN": 10,
+        "ID": 1
+    },
+    "CONFORME VALUACION CLASIFICACION B": {
+        "ORIGEN": 10,
+        "ID": 2
+    },
+    "CONFORME VALUACION CLASIFICACION C": {
+        "ORIGEN": 10,
+        "ID": 3
+    },
+    "CONFORME VALUACION CLASIFICACION D": {
+        "ORIGEN": 10,
+        "ID": 4
+    },
+    "CONFORME VALUACION CLASIFICACION E": {
+        "ORIGEN": 10,
+        "ID": 5
+    },
+    "CONFORME VALUACION TOT.ACT.CRE.": {
+        "ORIGEN": 10,
+        "ID": 6
+    },
+    "RESERVAS O PROVISIONES ESPECIFICAS": {
+        "ORIGEN": 10,
+        "ID": 7
+    },
+    "RESERVAS GENERICAS": {
+        "ORIGEN": 10,
+        "ID": 8
+    },
+    "INDICADORES FINANCIEROS (CVC)": {
+        "ORIGEN": 10,
+        "ID": 9
+    },
+    "SOBRE CALIDAD DE CARTERA (CCR)": {
+        "ORIGEN": 10,
+        "ID": 10
+    },
+    "RESERVAS DE ACTIVOS DE VALUACION": {
+        "ORIGEN": 10,
+        "ID": 11
+    },
+    "RESERVAS DE ACTIVOS GENERICAS": {
+        "ORIGEN": 10,
+        "ID": 12
+    }
+}

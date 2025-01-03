@@ -1,0 +1,54 @@
+{
+    "CREDITO EMPRESARIAL": {
+        "ORIGEN": 9,
+        "ID": 1
+    },
+    "CANT. CRED. EMPRESARIAL": {
+        "ORIGEN": 9,
+        "ID": 2
+    },
+    "CREDITO PRODUCTIVO": {
+        "ORIGEN": 9,
+        "ID": 3
+    },
+    "CANT. CRED. PRODUCTIVO": {
+        "ORIGEN": 9,
+        "ID": 4
+    },
+    "CREDITO CONSUMO": {
+        "ORIGEN": 9,
+        "ID": 5
+    },
+    "CANT. CRED. CONSUMO": {
+        "ORIGEN": 9,
+        "ID": 6
+    },
+    "CREDITO HIPOTECARIO PARA VIVIENDA": {
+        "ORIGEN": 9,
+        "ID": 7
+    },
+    "CANT. CRED. HIPOTECARIO": {
+        "ORIGEN": 9,
+        "ID": 8
+    },
+    "EMPRESARIAL MAYOR": {
+        "ORIGEN": 9,
+        "ID": 9
+    },
+    "EMPRESARIAL MENOR": {
+        "ORIGEN": 9,
+        "ID": 10
+    },
+    "CONSUMO": {
+        "ORIGEN": 9,
+        "ID": 11
+    },
+    "MICROCREDITO": {
+        "ORIGEN": 9,
+        "ID": 12
+    },
+    "HIPOTECARIO PARA VIVIENDA": {
+        "ORIGEN": 9,
+        "ID": 13
+    }
+}

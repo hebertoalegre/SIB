@@ -1,0 +1,86 @@
+{
+    "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA": {
+        "ABRE": "CHN",
+        "ID": 1
+    },
+    "BANCO INMOBILIARIO, S. A.": {
+        "ABRE": "INMOBILARIO",
+        "ID": 2
+    },
+    "BANCO DE LOS TRABAJADORES": {
+        "ABRE": "BANTRAB",
+        "ID": 3
+    },
+    "BANCO INDUSTRIAL, S. A.": {
+        "ABRE": "BI",
+        "ID": 4
+    },
+    "BANCO DE DESARROLLO RURAL, S. A.": {
+        "ABRE": "BANRURAL",
+        "ID": 5
+    },
+    "BANCO INTERNACIONAL, S. A.": {
+        "ABRE": "INTERBANCO",
+        "ID": 6
+    },
+    "CITIBANK, N.A., SUCURSAL GUATEMALA": {
+        "ABRE": "CITIBANK",
+        "ID": 7
+    },
+    "VIVIBANCO, S. A.": {
+        "ABRE": "VIVANCO ",
+        "ID": 8
+    },
+    "BANCO FICOHSA GUATEMALA, S. A.": {
+        "ABRE": "FICOHSA",
+        "ID": 9
+    },
+    "BANCO PROMERICA, S. A.": {
+        "ABRE": "PROMERICA",
+        "ID": 10
+    },
+    "BANCO DE ANTIGUA, S. A.": {
+        "ABRE": "ANTIGUA",
+        "ID": 11
+    },
+    "BANCO DE AMERICA CENTRAL, S. A.": {
+        "ABRE": "BAC",
+        "ID": 12
+    },
+    "BANCO AGROMERCANTIL DE GUATEMALA, S. A.": {
+        "ABRE": "BAM",
+        "ID": 13
+    },
+    "BANCO G&T CONTINENTAL, S. A.": {
+        "ABRE": "GyT",
+        "ID": 14
+    },
+    "BANCO AZTECA DE GUATEMALA, S. A.": {
+        "ABRE": "AZTECA",
+        "ID": 15
+    },
+    "BANCO INV, S. A.": {
+        "ABRE": "INV",
+        "ID": 16
+    },
+    "BANCO CREDICORP, S. A.": {
+        "ABRE": "CREDICORP",
+        "ID": 17
+    },
+    "BANCO NEXA, S. A.": {
+        "ABRE": "NEXA",
+        "ID": 18
+    },
+    "SISTEMA BANCARIO": {
+        "ABRE": "SB",
+        "ID": 19
+    },
+    "TOTAL": {
+        "ABRE": "SB",
+        "ID": 20
+    },
+    "DE CREDITO, S. A.": {
+        "ABRE": "CREDITO ",
+        "ID": 21
+    }
+}

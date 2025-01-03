@@ -1,0 +1,33 @@
+{
+    "TASAS INTERES APLICADAS": {
+        "ID": 1
+    },
+    "CARTERA DE CREDITOS SEGUN SU CLASIFICACION CONTABLE": {
+        "ID": 2
+    },
+    "INTEGRACION DE LA CARTERA": {
+        "ID": 3
+    },
+    "INTEGRACION DE LA CARTERA VENCIDA": {
+        "ID": 4
+    },
+    "INTEGRACION DE FIDEICOMISOS": {
+        "ID": 5
+    },
+    "EVOLUCION DE LA CARTERA DE CREDITOS": {
+        "ID": 6
+    },
+    "PERFIL FINANCIERO": {
+        "ID": 7
+    },
+    "AGENCIAS POR REGIONES": {
+        "ID": 8
+    },
+    "CARTERA DE CREDITOS POR SEGMENTO": {
+        "ID": 9
+    }, 
+    "ACTIVOS CREDITICIOS":{
+            "ID":10
+        }
+    
+}

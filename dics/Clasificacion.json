@@ -1,0 +1,26 @@
+{
+    "Segmento": {
+        "ORIGEN": 6,
+        "ID": 1
+    },
+    "area Geografica": {
+        "ORIGEN": 6,
+        "ID": 2
+    },
+    "Destino del activo crediticio": {
+        "ORIGEN": 6,
+        "ID": 3
+    },
+    "Garantia": {
+        "ORIGEN": 6,
+        "ID": 4
+    },
+    "Plazo Otorgado": {
+        "ORIGEN": 6,
+        "ID": 5
+    },
+    "Monto Concedido": {
+        "ORIGEN": 6,
+        "ID": 6
+    }
+}

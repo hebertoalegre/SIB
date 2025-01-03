@@ -1,0 +1,38 @@
+{
+    "EN PROCESO DE PRORROGA M/N": {
+        "ORIGEN": 4,
+        "ID": 1
+    },
+    "EN PROCESO DE PRORROGA M/E": {
+        "ORIGEN": 4,
+        "ID": 2
+    },
+    "EN PROCESO DE PRORROGA TOTAL": {
+        "ORIGEN": 4,
+        "ID": 3
+    },
+    "EN COBRO ADMINISTRATIVO M/N": {
+        "ORIGEN": 4,
+        "ID": 4
+    },
+    "EN COBRO ADMINISTRATIVO M/E": {
+        "ORIGEN": 4,
+        "ID": 5
+    },
+    "EN COBRO ADMINISTRATIVO TOTAL": {
+        "ORIGEN": 4,
+        "ID": 6
+    },
+    "EN COBRO JUDICIAL M/N": {
+        "ORIGEN": 4,
+        "ID": 7
+    },
+    "EN COBRO JUDICIAL M/E": {
+        "ORIGEN": 4,
+        "ID": 8
+    },
+    "EN COBRO JUDICIAL TOTAL": {
+        "ORIGEN": 4,
+        "ID": 9
+    }
+}

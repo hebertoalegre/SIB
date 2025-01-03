@@ -1,0 +1,22 @@
+{
+    "NUMERO DE CREDITOS": {
+        "ORIGEN": 6,
+        "ID": 1
+    },
+    "SALDOS Quetzales": {
+        "ORIGEN": 6,
+        "ID": 2
+    },
+    "PARTICIPACION (%)": {
+        "ORIGEN": 6,
+        "ID": 3
+    },
+    "MOROSIDAD (%)": {
+        "ORIGEN": 6,
+        "ID": 4
+    },
+    "TASA DE INTERES (%)": {
+        "ORIGEN": 6,
+        "ID": 5
+    }
+}

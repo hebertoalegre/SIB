@@ -1,0 +1,38 @@
+{
+    "TOTAL M/N": {
+        "ORIGEN": 3,
+        "ID": 1
+    },
+    "TOTAL M/E": {
+        "ORIGEN": 3,
+        "ID": 2
+    },
+    "TOTAL": {
+        "ORIGEN": 3,
+        "ID": 3
+    },
+    "CARTERA VIGENTE M/N": {
+        "ORIGEN": 3,
+        "ID": 4
+    },
+    "CARTERA VIGENTE M/E": {
+        "ORIGEN": 3,
+        "ID": 5
+    },
+    "CARTERA VIGENTE TOTAL": {
+        "ORIGEN": 3,
+        "ID": 6
+    },
+    "CARTERA VENCIDA M/N": {
+        "ORIGEN": 3,
+        "ID": 7
+    },
+    "CARTERA VENCIDA M/E": {
+        "ORIGEN": 3,
+        "ID": 8
+    },
+    "CARTERA VENCIDA TOTAL": {
+        "ORIGEN": 3,
+        "ID": 9
+    }
+}

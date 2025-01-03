@@ -1,0 +1,514 @@
+{
+    "(-) CAPITAL NO PAGADO": {
+        "ORIGEN": 7,
+        "ID": 1
+    },
+    "(-) ESTIMACIONES POR VALUACION": {
+        "ORIGEN": 7,
+        "ID": 2
+    },
+    "ACTIVO": {
+        "ORIGEN": 7,
+        "ID": 3
+    },
+    "ADECUACION DE CAPITAL (AC)": {
+        "ORIGEN": 7,
+        "ID": 4
+    },
+    "AJUSTES AL IMPUESTO SOBRE LA RENTA": {
+        "ORIGEN": 7,
+        "ID": 5
+    },
+    "APORTACIONES PERMANENTES": {
+        "ORIGEN": 7,
+        "ID": 6
+    },
+    "BANCO CENTRAL": {
+        "ORIGEN": 7,
+        "ID": 7
+    },
+    "BANCOS DEL EXTERIOR": {
+        "ORIGEN": 7,
+        "ID": 8
+    },
+    "BANCOS DEL PAIS": {
+        "ORIGEN": 7,
+        "ID": 9
+    },
+    "BIENES REALIZABLES (NETO)": {
+        "ORIGEN": 7,
+        "ID": 10
+    },
+    "BONOS": {
+        "ORIGEN": 7,
+        "ID": 11
+    },
+    "CAJA": {
+        "ORIGEN": 7,
+        "ID": 12
+    },
+    "CALCE DE OPERACIONES ME CON RELACION AL PATRIMONIO COMPUTABLE (COME)": {
+        "ORIGEN": 7,
+        "ID": 13
+    },
+    "CAPITAL AUTORIZADO": {
+        "ORIGEN": 7,
+        "ID": 14
+    },
+    "CAPITAL COMPUTABLE": {
+        "ORIGEN": 7,
+        "ID": 15
+    },
+    "CAPITAL CONTABLE": {
+        "ORIGEN": 7,
+        "ID": 16
+    },
+    "CAPITAL PAGADO": {
+        "ORIGEN": 7,
+        "ID": 17
+    },
+    "CAPITAL REQUERIDO": {
+        "ORIGEN": 7,
+        "ID": 18
+    },
+    "CARGOS DIFERIDOS (NETO)": {
+        "ORIGEN": 7,
+        "ID": 19
+    },
+    "CARTERA DE CREDITOS": {
+        "ORIGEN": 7,
+        "ID": 20
+    },
+    "CARTERA DE CREDITOS VENCIDA CON RELACION A CARTERA DE CREDITOS BRUTA (CVC)": {
+        "ORIGEN": 7,
+        "ID": 21
+    },
+    "CASA MATRIZ, CAPITAL ASIGNADO": {
+        "ORIGEN": 7,
+        "ID": 22
+    },
+    "CERTIFICADOS DE PARTICIPACION": {
+        "ORIGEN": 7,
+        "ID": 23
+    },
+    "CHEQUES A COMPENSAR": {
+        "ORIGEN": 7,
+        "ID": 24
+    },
+    "COBERTURA DE CARTERA DE CREDITOS EN RIESGO (CCR)": {
+        "ORIGEN": 7,
+        "ID": 25
+    },
+    "CREDITOS DIFERIDOS": {
+        "ORIGEN": 7,
+        "ID": 26
+    },
+    "CREDITOS OBTENIDOS": {
+        "ORIGEN": 7,
+        "ID": 27
+    },
+    "CUENTAS POR COBRAR (NETO)": {
+        "ORIGEN": 7,
+        "ID": 28
+    },
+    "CUENTAS POR PAGAR": {
+        "ORIGEN": 7,
+        "ID": 29
+    },
+    "DE INSTITUCIONES FINANCIERAS EXTRANJERAS": {
+        "ORIGEN": 7,
+        "ID": 30
+    },
+    "DE INSTITUCIONES FINANCIERAS NACIONALES": {
+        "ORIGEN": 7,
+        "ID": 31
+    },
+    "DEL BANCO CENTRAL": {
+        "ORIGEN": 7,
+        "ID": 32
+    },
+    "DEPOSITOS A LA ORDEN": {
+        "ORIGEN": 7,
+        "ID": 33
+    },
+    "DEPOSITOS A PLAZO": {
+        "ORIGEN": 7,
+        "ID": 34
+    },
+    "DEPOSITOS CON RESTRICCIONES": {
+        "ORIGEN": 7,
+        "ID": 35
+    },
+    "DEPOSITOS DE AHORRO": {
+        "ORIGEN": 7,
+        "ID": 36
+    },
+    "DEPOSITOS MONETARIOS": {
+        "ORIGEN": 7,
+        "ID": 37
+    },
+    "DISPONIBILIDADES": {
+        "ORIGEN": 7,
+        "ID": 38
+    },
+    "DOCUMENTOS DESCONTADOS": {
+        "ORIGEN": 7,
+        "ID": 39
+    },
+    "EFICIENCIA (EF)": {
+        "ORIGEN": 7,
+        "ID": 40
+    },
+    "EFICIENCIA SOBRE ACTIVOS (EA)": {
+        "ORIGEN": 7,
+        "ID": 41
+    },
+    "EN TITULOS-VALORES PARA LA VENTA": {
+        "ORIGEN": 7,
+        "ID": 42
+    },
+    "EN TITULOS-VALORES PARA NEGOCIACION": {
+        "ORIGEN": 7,
+        "ID": 43
+    },
+    "EN TITULOS-VALORES PARA SU VENCIMIENTO": {
+        "ORIGEN": 7,
+        "ID": 44
+    },
+    "ENCAJE COMPUTABLE": {
+        "ORIGEN": 7,
+        "ID": 45
+    },
+    "ENCAJE REQUERIDO": {
+        "ORIGEN": 7,
+        "ID": 46
+    },
+    "GANANCIA (PERDIDA) BRUTA": {
+        "ORIGEN": 7,
+        "ID": 47
+    },
+    "GANANCIA (PERDIDA) NETA": {
+        "ORIGEN": 7,
+        "ID": 48
+    },
+    "GANANCIAS O PERDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES": {
+        "ORIGEN": 7,
+        "ID": 49
+    },
+    "GANANCIAS Y PERDIDAS POR FUSION": {
+        "ORIGEN": 7,
+        "ID": 50
+    },
+    "GASTOS": {
+        "ORIGEN": 7,
+        "ID": 51
+    },
+    "GASTOS DE ADMINISTRACION": {
+        "ORIGEN": 7,
+        "ID": 52
+    },
+    "GASTOS DE EJERCICIOS ANTERIORES": {
+        "ORIGEN": 7,
+        "ID": 53
+    },
+    "GASTOS EXTRAORDINARIOS": {
+        "ORIGEN": 7,
+        "ID": 54
+    },
+    "GASTOS FINANCIEROS": {
+        "ORIGEN": 7,
+        "ID": 55
+    },
+    "GASTOS FINANCIEROS POR PAGAR": {
+        "ORIGEN": 7,
+        "ID": 56
+    },
+    "GASTOS POR SERVICIOS": {
+        "ORIGEN": 7,
+        "ID": 57
+    },
+    "GIROS SOBRE EL EXTERIOR": {
+        "ORIGEN": 7,
+        "ID": 58
+    },
+    "IMPUESTO SOBRE LA RENTA": {
+        "ORIGEN": 7,
+        "ID": 59
+    },
+    "INMUEBLES Y MUEBLES (NETO)": {
+        "ORIGEN": 7,
+        "ID": 60
+    },
+    "INTERESES PAGADOS EN COMPRA DE VALORES": {
+        "ORIGEN": 7,
+        "ID": 61
+    },
+    "INVERSIONES": {
+        "ORIGEN": 7,
+        "ID": 62
+    },
+    "INVERSIONES PERMANENTES (NETO)": {
+        "ORIGEN": 7,
+        "ID": 63
+    },
+    "LIQUIDEZ INMEDIATA (LI)": {
+        "ORIGEN": 7,
+        "ID": 64
+    },
+    "LIQUIDEZ MEDIATA (LM)": {
+        "ORIGEN": 7,
+        "ID": 65
+    },
+    "MARGEN OPERACIONAL BRUTO": {
+        "ORIGEN": 7,
+        "ID": 66
+    },
+    "MARGEN OPERACIONAL NETO": {
+        "ORIGEN": 7,
+        "ID": 67
+    },
+    "MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACION": {
+        "ORIGEN": 7,
+        "ID": 68
+    },
+    "MARGEN POR INVERSION": {
+        "ORIGEN": 7,
+        "ID": 69
+    },
+    "MARGEN POR SERVICIOS": {
+        "ORIGEN": 7,
+        "ID": 70
+    },
+    "MONTO DEPOSITOS A LA ORDEN": {
+        "ORIGEN": 7,
+        "ID": 71
+    },
+    "MONTO DEPOSITOS A PLAZO": {
+        "ORIGEN": 7,
+        "ID": 72
+    },
+    "MONTO DEPOSITOS CON RESTRICCIONES": {
+        "ORIGEN": 7,
+        "ID": 73
+    },
+    "MONTO DEPOSITOS DE AHORRO": {
+        "ORIGEN": 7,
+        "ID": 74
+    },
+    "MONTO DEPOSITOS MONETARIOS": {
+        "ORIGEN": 7,
+        "ID": 75
+    },
+    "MONTO OBLIGACIONES FINANCIERAS": {
+        "ORIGEN": 7,
+        "ID": 76
+    },
+    "MONTO TOTAL DE CARTERA DE CREDITOS (BRUTA)": {
+        "ORIGEN": 7,
+        "ID": 77
+    },
+    "NO. DE CUENTAS A LA ORDEN": {
+        "ORIGEN": 7,
+        "ID": 78
+    },
+    "NO. DE CUENTAS DEPOSITOS A PLAZO": {
+        "ORIGEN": 7,
+        "ID": 79
+    },
+    "NO. DE CUENTAS DEPOSITOS CON RESTRICCIONES": {
+        "ORIGEN": 7,
+        "ID": 80
+    },
+    "NO. DE CUENTAS DEPOSITOS DE AHORRO": {
+        "ORIGEN": 7,
+        "ID": 81
+    },
+    "NO. DE CUENTAS DEPOSITOS MONETARIOS": {
+        "ORIGEN": 7,
+        "ID": 82
+    },
+    "NO. DE OBLIGACIONES FINANCIERAS": {
+        "ORIGEN": 7,
+        "ID": 83
+    },
+    "OBLIGACIONES CONVERTIBLES EN ACCIONES": {
+        "ORIGEN": 7,
+        "ID": 84
+    },
+    "OBLIGACIONES DEPOSITARIAS": {
+        "ORIGEN": 7,
+        "ID": 85
+    },
+    "OBLIGACIONES FINANCIERAS": {
+        "ORIGEN": 7,
+        "ID": 86
+    },
+    "OBLIGACIONES FINANCIERAS CON RESTRICCIONES": {
+        "ORIGEN": 7,
+        "ID": 87
+    },
+    "OBLIGACIONES SUBORDINADAS": {
+        "ORIGEN": 7,
+        "ID": 88
+    },
+    "OPERACIONES DE REPORTO": {
+        "ORIGEN": 7,
+        "ID": 89
+    },
+    "ORGANISMOS INTERNACIONALES": {
+        "ORIGEN": 7,
+        "ID": 90
+    },
+    "OTRAS CUENTAS ACREEDORAS": {
+        "ORIGEN": 7,
+        "ID": 91
+    },
+    "OTRAS INVERSIONES (NETO)": {
+        "ORIGEN": 7,
+        "ID": 92
+    },
+    "OTRAS OBLIGACIONES": {
+        "ORIGEN": 7,
+        "ID": 93
+    },
+    "PAGARES FINANCIEROS": {
+        "ORIGEN": 7,
+        "ID": 94
+    },
+    "PASIVO": {
+        "ORIGEN": 7,
+        "ID": 95
+    },
+    "PATRIMONIO CON RELACION A ACTIVOS (PA)": {
+        "ORIGEN": 7,
+        "ID": 96
+    },
+    "PATRIMONIO CON RELACION A CARTERA DE CREDITOS (PCC)": {
+        "ORIGEN": 7,
+        "ID": 97
+    },
+    "PATRIMONIO CON RELACION A LAS CAPTACIONES (PCA)": {
+        "ORIGEN": 7,
+        "ID": 98
+    },
+    "POSICION": {
+        "ORIGEN": 7,
+        "ID": 99
+    },
+    "PRESTAMOS": {
+        "ORIGEN": 7,
+        "ID": 100
+    },
+    "PRODUCTOS": {
+        "ORIGEN": 7,
+        "ID": 101
+    },
+    "PRODUCTOS DE EJERCICIOS ANTERIORES": {
+        "ORIGEN": 7,
+        "ID": 102
+    },
+    "PRODUCTOS EXTRAORDINARIOS": {
+        "ORIGEN": 7,
+        "ID": 103
+    },
+    "PRODUCTOS FINANCIEROS": {
+        "ORIGEN": 7,
+        "ID": 104
+    },
+    "PRODUCTOS FINANCIEROS POR COBRAR": {
+        "ORIGEN": 7,
+        "ID": 105
+    },
+    "PRODUCTOS POR SERVICIOS": {
+        "ORIGEN": 7,
+        "ID": 106
+    },
+    "PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES": {
+        "ORIGEN": 7,
+        "ID": 107
+    },
+    "PRODUCTOS Y GASTOS EXTRAORDINARIOS": {
+        "ORIGEN": 7,
+        "ID": 108
+    },
+    "PROVISION DE BENEFICIOS A EMPLEADOS": {
+        "ORIGEN": 7,
+        "ID": 109
+    },
+    "PROVISION DINAMICA": {
+        "ORIGEN": 7,
+        "ID": 110
+    },
+    "PROVISIONES": {
+        "ORIGEN": 7,
+        "ID": 111
+    },
+    "RENDIMIENTO SOBRE ACTIVOS (ROA)": {
+        "ORIGEN": 7,
+        "ID": 112
+    },
+    "RENDIMIENTO SOBRE PATRIMONIO (ROE)": {
+        "ORIGEN": 7,
+        "ID": 113
+    },
+    "RESERVA DE CAPITAL": {
+        "ORIGEN": 7,
+        "ID": 114
+    },
+    "RESERVAS PARA ACTIVOS EXTRAORDINARIOS": {
+        "ORIGEN": 7,
+        "ID": 115
+    },
+    "RESULTADOS DE EJERCICIOS ANTERIORES": {
+        "ORIGEN": 7,
+        "ID": 116
+    },
+    "RESULTADOS DEL EJERCICIO": {
+        "ORIGEN": 7,
+        "ID": 117
+    },
+    "REVALUACION DE ACTIVOS": {
+        "ORIGEN": 7,
+        "ID": 118
+    },
+    "SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS": {
+        "ORIGEN": 7,
+        "ID": 119
+    },
+    "SUMA": {
+        "ORIGEN": 7,
+        "ID": 120
+    },
+    "TOTAL DE CARTERA DE CREDITOS (BRUTA)": {
+        "ORIGEN": 7,
+        "ID": 121
+    },
+    "TOTAL IGUAL A LA SUMA DEL ACTIVO": {
+        "ORIGEN": 7,
+        "ID": 122
+    },
+    "VALUACION DE ACTIVOS DE RECUPERACION DUDOSA": {
+        "ORIGEN": 7,
+        "ID": 123
+    },
+    "VENCIDOS": {
+        "ORIGEN": 7,
+        "ID": 124
+    },
+    "VENCIDOS EN COBRO ADMINISTRATIVO": {
+        "ORIGEN": 7,
+        "ID": 125
+    },
+    "VENCIDOS EN COBRO JUDICIAL": {
+        "ORIGEN": 7,
+        "ID": 126
+    },
+    "VENCIDOS EN PROCESO DE PRORROGA": {
+        "ORIGEN": 7,
+        "ID": 127
+    },
+    "VIGENTE": {
+        "ORIGEN": 7,
+        "ID": 128
+    }
+}

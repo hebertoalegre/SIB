@@ -1,0 +1,98 @@
+{
+    "BONOS BANCARIOS MAXIMA": {
+        "ORIGEN": 1,
+        "ID": 1
+    },
+    "BONOS MINIMA": {
+        "ORIGEN": 1,
+        "ID": 2
+    },
+    "BONOS MODA": {
+        "ORIGEN": 1,
+        "ID": 3
+    },
+    "BONOS PROM. POND.": {
+        "ORIGEN": 1,
+        "ID": 4
+    },
+    "DEPOSITOS A PLAZO MAXIMA": {
+        "ORIGEN": 1,
+        "ID": 5
+    },
+    "DEPOSITOS A PLAZO MINIMA": {
+        "ORIGEN": 1,
+        "ID": 6
+    },
+    "DEPOSITOS A PLAZO MODA": {
+        "ORIGEN": 1,
+        "ID": 7
+    },
+    "DEPOSITOS A PLAZO PROM. POND.": {
+        "ORIGEN": 1,
+        "ID": 8
+    },
+    "DEPOSITOS DE AHORRO MAXIMA": {
+        "ORIGEN": 1,
+        "ID": 9
+    },
+    "DEPOSITOS DE AHORRO MINIMA": {
+        "ORIGEN": 1,
+        "ID": 10
+    },
+    "DEPOSITOS DE AHORRO MODA": {
+        "ORIGEN": 1,
+        "ID": 11
+    },
+    "DEPOSITOS DE AHORRO PROM. POND.": {
+        "ORIGEN": 1,
+        "ID": 12
+    },
+    "DEPOSITOS MONETARIOS MAXIMA": {
+        "ORIGEN": 1,
+        "ID": 13
+    },
+    "DEPOSITOS MONETARIOS MINIMA": {
+        "ORIGEN": 1,
+        "ID": 14
+    },
+    "DEPOSITOS MONETARIOS MODA": {
+        "ORIGEN": 1,
+        "ID": 15
+    },
+    "DEPOSITOS MONETARIOS PROM. POND.": {
+        "ORIGEN": 1,
+        "ID": 16
+    },
+    "DESCUENTOS MAXIMA": {
+        "ORIGEN": 1,
+        "ID": 17
+    },
+    "DESCUENTOS MINIMA": {
+        "ORIGEN": 1,
+        "ID": 18
+    },
+    "DESCUENTOS MODA": {
+        "ORIGEN": 1,
+        "ID": 19
+    },
+    "DESCUENTOS PROM. POND.": {
+        "ORIGEN": 1,
+        "ID": 20
+    },
+    "PRESTAMOS MAXIMA": {
+        "ORIGEN": 1,
+        "ID": 21
+    },
+    "PRESTAMOS MINIMA": {
+        "ORIGEN": 1,
+        "ID": 22
+    },
+    "PRESTAMOS MODA": {
+        "ORIGEN": 1,
+        "ID": 23
+    },
+    "PRESTAMOS PROM. POND.": {
+        "ORIGEN": 1,
+        "ID": 24
+    }
+}

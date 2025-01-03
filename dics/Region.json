@@ -1,0 +1,29 @@
+{
+    "METROPOLITANA": {
+        "ID": 1
+    },
+    "NORTE": {
+        "ID": 2
+    },
+    "NORORIENTE": {
+        "ID": 3
+    },
+    "SURORIENTE": {
+        "ID": 4
+    },
+    "CENTRAL": {
+        "ID": 5
+    },
+    "SUROCCIDENTE": {
+        "ID": 6
+    },
+    "NOROCCIDENTE": {
+        "ID": 7
+    },
+    "PETEN": {
+        "ID": 8
+    },
+    "TOTAL": {
+        "ID": 9
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "UNIDADES": {
+        "ID": 1
+    },
+    "PORCENTAJE": {
+        "ID": 2
+    },
+    "QUETZALES": {
+        "ID": 3
+    },
+    "MILES DE QUETZALES": {
+        "ID": 4
+    },
+    "MILLONES DE QUETZALES": {
+        "ID": 5
+    }
+}

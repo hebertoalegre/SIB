@@ -1,0 +1,414 @@
+{
+    "Creditos empresariales": {
+        "ORIGEN": 6,
+        "ID": 1
+    },
+    "Creditos productivos": {
+        "ORIGEN": 6,
+        "ID": 2
+    },
+    "Creditos hipotecarios para vivienda": {
+        "ORIGEN": 6,
+        "ID": 3
+    },
+    "Creditos de consumo": {
+        "ORIGEN": 6,
+        "ID": 4
+    },
+    "Total por Segmento": {
+        "ORIGEN": 6,
+        "ID": 5
+    },
+    "GUATEMALA": {
+        "ORIGEN": 6,
+        "ID": 6
+    },
+    "ALTA VERAPAZ": {
+        "ORIGEN": 6,
+        "ID": 7
+    },
+    "BAJA VERAPAZ": {
+        "ORIGEN": 6,
+        "ID": 8
+    },
+    "IZABAL": {
+        "ORIGEN": 6,
+        "ID": 9
+    },
+    "CHIQUIMULA": {
+        "ORIGEN": 6,
+        "ID": 10
+    },
+    "ZACAPA": {
+        "ORIGEN": 6,
+        "ID": 11
+    },
+    "EL PROGRESO": {
+        "ORIGEN": 6,
+        "ID": 12
+    },
+    "JUTIAPA": {
+        "ORIGEN": 6,
+        "ID": 13
+    },
+    "JALAPA": {
+        "ORIGEN": 6,
+        "ID": 14
+    },
+    "SANTA ROSA": {
+        "ORIGEN": 6,
+        "ID": 15
+    },
+    "CHIMALTENANGO": {
+        "ORIGEN": 6,
+        "ID": 16
+    },
+    "SACATEPEQUEZ": {
+        "ORIGEN": 6,
+        "ID": 17
+    },
+    "ESCUINTLA": {
+        "ORIGEN": 6,
+        "ID": 18
+    },
+    "SAN MARCOS": {
+        "ORIGEN": 6,
+        "ID": 19
+    },
+    "QUETZALTENANGO": {
+        "ORIGEN": 6,
+        "ID": 20
+    },
+    "TOTONICAPAN": {
+        "ORIGEN": 6,
+        "ID": 21
+    },
+    "SOLOLA": {
+        "ORIGEN": 6,
+        "ID": 22
+    },
+    "RETALHULEU": {
+        "ORIGEN": 6,
+        "ID": 23
+    },
+    "SUCHITEPEQUEZ": {
+        "ORIGEN": 6,
+        "ID": 24
+    },
+    "HUEHUETENANGO": {
+        "ORIGEN": 6,
+        "ID": 25
+    },
+    "QUICHE": {
+        "ORIGEN": 6,
+        "ID": 26
+    },
+    "PETEN": {
+        "ORIGEN": 6,
+        "ID": 27
+    },
+    "OTROS": {
+        "ORIGEN": 6,
+        "ID": 28
+    },
+    "Total por Area Geografica": {
+        "ORIGEN": 6,
+        "ID": 29
+    },
+    "Agricultura, ganaderia, silvicultura y pesca": {
+        "ORIGEN": 6,
+        "ID": 30
+    },
+    "Explotacion de minas y canteras": {
+        "ORIGEN": 6,
+        "ID": 31
+    },
+    "Industrias manufactureras": {
+        "ORIGEN": 6,
+        "ID": 32
+    },
+    "Suministro de electricidad, gas, vapor y aire acondicionado": {
+        "ORIGEN": 6,
+        "ID": 33
+    },
+    "Suministro de agua; evacuacion de aguas residuales, gestion de desechos y descontaminacion": {
+        "ORIGEN": 6,
+        "ID": 34
+    },
+    "Construccion": {
+        "ORIGEN": 6,
+        "ID": 35
+    },
+    "Comercio al por mayor y al por menor; Mantenimiento y reparacion de vehiculos automotores y motocicletas": {
+        "ORIGEN": 6,
+        "ID": 36
+    },
+    "Transporte y almacenamiento": {
+        "ORIGEN": 6,
+        "ID": 37
+    },
+    "Actividades de alojamiento y de servicio de comidas": {
+        "ORIGEN": 6,
+        "ID": 38
+    },
+    "Informacion y comunicaciones": {
+        "ORIGEN": 6,
+        "ID": 39
+    },
+    "Actividades financieras y de seguros": {
+        "ORIGEN": 6,
+        "ID": 40
+    },
+    "Actividades inmobiliarias": {
+        "ORIGEN": 6,
+        "ID": 41
+    },
+    "Actividades profesionales, cientificas y tecnicas": {
+        "ORIGEN": 6,
+        "ID": 42
+    },
+    "Actividades de servicios administrativos y de apoyo": {
+        "ORIGEN": 6,
+        "ID": 43
+    },
+    "Administracion publica y defensa; planes de seguridad social de afiliacion obligatoria": {
+        "ORIGEN": 6,
+        "ID": 44
+    },
+    "Ensenanza": {
+        "ORIGEN": 6,
+        "ID": 45
+    },
+    "Actividades de atencion de la salud humana y de asistencia social": {
+        "ORIGEN": 6,
+        "ID": 46
+    },
+    "Actividades artisticas, de entretenimiento y recreativas": {
+        "ORIGEN": 6,
+        "ID": 47
+    },
+    "Otras actividades de servicios": {
+        "ORIGEN": 6,
+        "ID": 48
+    },
+    "Actividades de los hogares como empleadores; actividades no diferenciadas de los hogares como productores de bienes y servicios para uso propio": {
+        "ORIGEN": 6,
+        "ID": 49
+    },
+    "Actividades de organizaciones y organos extraterritoriales": {
+        "ORIGEN": 6,
+        "ID": 50
+    },
+    "Consumo, Vehiculos y Tarjetas de Credito": {
+        "ORIGEN": 6,
+        "ID": 51
+    },
+    "Consumos personales": {
+        "ORIGEN": 6,
+        "ID": 52
+    },
+    "Adquisicion de bienes durables": {
+        "ORIGEN": 6,
+        "ID": 53
+    },
+    "Adquisicion de bienes fungibles": {
+        "ORIGEN": 6,
+        "ID": 54
+    },
+    "Servicios recibidos": {
+        "ORIGEN": 6,
+        "ID": 55
+    },
+    "Pago o consolidacion de deudas": {
+        "ORIGEN": 6,
+        "ID": 56
+    },
+    "Vehiculos": {
+        "ORIGEN": 6,
+        "ID": 57
+    },
+    "Tarjetas de Credito": {
+        "ORIGEN": 6,
+        "ID": 58
+    },
+    "Vivienda": {
+        "ORIGEN": 6,
+        "ID": 59
+    },
+    "Total por Destino del activo crediticio": {
+        "ORIGEN": 6,
+        "ID": 60
+    },
+    "Fiduciaria": {
+        "ORIGEN": 6,
+        "ID": 61
+    },
+    "Prendas-Otras garantias": {
+        "ORIGEN": 6,
+        "ID": 62
+    },
+    "Fiduciaria-Bienes inmuebles-Prendas": {
+        "ORIGEN": 6,
+        "ID": 63
+    },
+    "Fiduciaria-Bienes inmuebles-Otras garantias": {
+        "ORIGEN": 6,
+        "ID": 64
+    },
+    "Fideicomiso - fiduciaria": {
+        "ORIGEN": 6,
+        "ID": 65
+    },
+    "Fideicomiso - otras garantias": {
+        "ORIGEN": 6,
+        "ID": 66
+    },
+    "Fideicomisos": {
+        "ORIGEN": 6,
+        "ID": 67
+    },
+    "Fondo de garantia": {
+        "ORIGEN": 6,
+        "ID": 68
+    },
+    "Bienes inmuebles": {
+        "ORIGEN": 6,
+        "ID": 69
+    },
+    "Operaciones autoliquidables (back to back)": {
+        "ORIGEN": 6,
+        "ID": 70
+    },
+    "Prendas": {
+        "ORIGEN": 6,
+        "ID": 71
+    },
+    "Otras garantias": {
+        "ORIGEN": 6,
+        "ID": 72
+    },
+    "Fiduciaria-Bienes inmuebles": {
+        "ORIGEN": 6,
+        "ID": 73
+    },
+    "Fiduciaria-Prendas": {
+        "ORIGEN": 6,
+        "ID": 74
+    },
+    "Fiduciaria-Otras garantias": {
+        "ORIGEN": 6,
+        "ID": 75
+    },
+    "Bienes inmuebles-Prendas": {
+        "ORIGEN": 6,
+        "ID": 76
+    },
+    "Bienes inmuebles-Otras garantias": {
+        "ORIGEN": 6,
+        "ID": 77
+    },
+    "Total por Garantia": {
+        "ORIGEN": 6,
+        "ID": 78
+    },
+    "de 0 a 6 meses": {
+        "ORIGEN": 6,
+        "ID": 79
+    },
+    "de 7 a 12 meses": {
+        "ORIGEN": 6,
+        "ID": 80
+    },
+    "de 13 a 24 meses": {
+        "ORIGEN": 6,
+        "ID": 81
+    },
+    "de 25 a 36 meses": {
+        "ORIGEN": 6,
+        "ID": 82
+    },
+    "de 37 a 48 meses": {
+        "ORIGEN": 6,
+        "ID": 83
+    },
+    "de 49 a 60 meses": {
+        "ORIGEN": 6,
+        "ID": 84
+    },
+    "de 61 a 72 meses": {
+        "ORIGEN": 6,
+        "ID": 85
+    },
+    "Mayor de 72 meses": {
+        "ORIGEN": 6,
+        "ID": 86
+    },
+    "SFV": {
+        "ORIGEN": 6,
+        "ID": 87
+    },
+    "Total por Plazo Otorgado": {
+        "ORIGEN": 6,
+        "ID": 88
+    },
+    "Hasta 50,000": {
+        "ORIGEN": 6,
+        "ID": 89
+    },
+    "DE MAS DE 50,000 HASTA 100,000": {
+        "ORIGEN": 6,
+        "ID": 90
+    },
+    "DE MAS DE 100,000 HASTA 500,000": {
+        "ORIGEN": 6,
+        "ID": 91
+    },
+    "DE MAS DE 500,000 HASTA 1,000,000": {
+        "ORIGEN": 6,
+        "ID": 92
+    },
+    "DE MAS DE 1,000,000 HASTA 2,000,000": {
+        "ORIGEN": 6,
+        "ID": 93
+    },
+    "DE MAS DE 2,000,000 HASTA 3,000,000": {
+        "ORIGEN": 6,
+        "ID": 94
+    },
+    "DE MAS DE 3,000,000 HASTA 4,000,000": {
+        "ORIGEN": 6,
+        "ID": 95
+    },
+    "DE MAS DE 4,000,000 HASTA 5,000,000": {
+        "ORIGEN": 6,
+        "ID": 96
+    },
+    "DE MAS DE 5,000,000 HASTA 7,500,000": {
+        "ORIGEN": 6,
+        "ID": 97
+    },
+    "DE MAS DE 7,500,000 HASTA 10,000,000": {
+        "ORIGEN": 6,
+        "ID": 98
+    },
+    "DE MAS DE 10,000,000 HASTA 25,000,000": {
+        "ORIGEN": 6,
+        "ID": 99
+    },
+    "DE MAS DE 25,000,000": {
+        "ORIGEN": 6,
+        "ID": 100
+    },
+    "Total por Monto Concedido": {
+        "ORIGEN": 6,
+        "ID": 101
+    },
+    "Fiduciaria-Prendas-Otras garantias": {
+        "ORIGEN": 6,
+        "ID": 102
+    },
+    "Fiduciaria-Bienes inmuebles-Prendas-Otras garantias": {
+        "ORIGEN": 6,
+        "ID": 103
+    }
+}
